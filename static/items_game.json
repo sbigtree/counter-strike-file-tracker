@@ -51433,6 +51433,15 @@
                 "hidden": 1,
                 "effect_type": "positive",
                 "stored_as_integer": 1
+            },
+            "312": {
+                "name": "trade protected escrow date",
+                "attribute_class": "trade_protected_escrow_date",
+                "description_format": "value_is_date",
+                "description_string": "#Attrib_TradeProtectedEscrowDate",
+                "hidden": 1,
+                "effect_type": "negative",
+                "stored_as_integer": 1
             }
         },
         "sticker_kits": {

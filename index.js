@@ -185,7 +185,9 @@ if (!fs.existsSync(temp)) {
 }
 
 const user = new SteamUser();
-
+user.on('debug', (msg) => {
+  // console.debug('debug', msg);
+})
 console.log("Logging into Steam....");
 let twoFactorCode = null
 if (process.argv[4]) {

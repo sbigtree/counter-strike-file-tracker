@@ -6982,6 +6982,7 @@
             "CSGO_Tool_Keychain_Desc": "Dette anhenget kan festes til ethvert våpen du eier. Festede anheng kan løsnes ved å bruke en anhengsavbiter. Løsnede anheng legges tilbake i lageret ditt.",
             "keychain_kc_sticker_display_case": "Klistremerkeholder",
             "keychain_kc_sticker_display_case_desc": "Klistremerket er trygt forseglet i denne holderen. Du kan legge klistremerket tilbake i lageret ditt når som helst ved å sprekke og forkaste denne holderen.",
+            "CSGO_Tool_StickerDisplayCase_Desc": "Ethvert klistremerke kan forsegles trygt i denne holderen. En holder er et anheng som kan festes til våpen, og fjernes ved å bruke en anhengsavbiter. Du kan også legge klistremerket tilbake i lageret når som helst ved å sprekke og forkaste denne holderen.",
             "CSGO_Tool_WrapStickerInDisplayCase_Title": "Forsegl klistremerke i klistremerkeholder",
             "CSGO_Tool_WrapStickerInDisplayCase_Desc": "Forsegl klistremerket i denne holderen og fest det til et våpen du eier.<br/>Du kan legge klistremerket tilbake i lageret når som helst ved å sprekke og forkaste denne holderen.",
             "CSGO_Tool_UnWrapStickerInDisplayCase_Title": "Sprekk holder og ta ut klistremerke",

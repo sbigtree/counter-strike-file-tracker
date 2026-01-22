@@ -34060,7 +34060,7 @@
             "xpshop_upsell_mainmenu_3": "",
             "xpshop_upsell_btn": "Get A Pass",
             "xpshop_upsell_tooltip": "Learn more about the {s:pass}",
-            "xpshop_new_items": "New Items!",
+            "xpshop_new_items:p{new-count}": "New Item!#|#New Items!",
             "xpshop_lootlist_info": "The <span class=\\\"text-color-white\\\"><b>{s:casename}</b></span> contains one of the following",
             "xpshop_limited_item_variations": "Finish Variations",
             "xpshop_limited_item_variations_tooltip": "Examples of possible variations in pattern template and wear that you may get when you redeem this Limited Edition Item.",
